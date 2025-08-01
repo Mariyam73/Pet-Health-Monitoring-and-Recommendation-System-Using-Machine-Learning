@@ -116,7 +116,7 @@ You’ll see the web interface rendered using `templates/index.html`.
 
 If you want to build or retrain models:
 
-- Use `Codes/final_model.py` to train or update models.
+- Use `Codes/` to train or update models.
 - The trained model will be stored in the `Models/` directory.
 - You can test or experiment using `Codes/testing.ipynb`.
 
@@ -148,7 +148,4 @@ For issues or feedback, raise an issue on the GitHub repo:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
